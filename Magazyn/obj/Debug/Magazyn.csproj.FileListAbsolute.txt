@@ -1,0 +1,27 @@
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe.config
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.Form1.resources
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.Cache
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\bin\Debug\Magazyn.pdb
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.exe
+c:\users\damian\documents\visual studio 2012\Projects\MagazynWFA\Magazyn\obj\Debug\Magazyn.pdb
+D:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe.config
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.exe
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.pdb
+D:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe
+D:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.pdb
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.csprojResolveAssemblyReference.cache
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.Form1.resources
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+D:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.Cache
+E:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe.config
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.exe
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.pdb
+E:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.exe
+E:\Dane\Moje programy\MagazynWFA\Magazyn\bin\Debug\Magazyn.pdb
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.csprojResolveAssemblyReference.cache
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.Form1.resources
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+E:\Dane\Moje programy\MagazynWFA\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.Cache
